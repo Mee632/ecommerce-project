@@ -131,7 +131,7 @@ ecommerce-project/
 │       │   └── resources/
 │       └── pom.xml
 └── 03-frontend/               # Frontend application (Angular)
-    └── angualr-ecommerce/     # Angular project
+    └── angular-ecommerce/     # Angular project
 ```
 
 ## 📦 Database Schema
